@@ -1,0 +1,17 @@
+[project]
+name = "breakout-clone-i-suppose"
+title = "breakout"
+version = "0.1.0"
+authors = ["levionitch"]
+icon = "metadata/icon.png"
+compile_ruby = false
+
+[dragonruby]
+version = "3.8"
+edition = "pro"
+
+[dependencies]
+
+[itch]
+url = "breakout-clone-i-suppose"
+username = "levionitch"
